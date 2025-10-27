@@ -64,6 +64,10 @@
 
 - FENS, Federation of European Neuroscience Societies offers [grants and stipends](https://www.fens.org/careers/grants-and-stipends )
 
+## Competitions, Hackathons
+- ends in 6 months! [IMAGINE-decoding-challenge](https://www.kaggle.com/competitions/the-imagine-decoding-challenge) (Predict which words participants were hearing, based upon brain activity recordings of visually seeing these items) 
+- [Kaggle competitions](https://www.kaggle.com/competitions)
+
 
 --- 
 ## Learning 
