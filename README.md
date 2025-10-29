@@ -51,7 +51,7 @@
 - [Allen Institute for Brain Science](https://alleninstitute.org/division/brain-science/) 
 
 ## Mailing lists
-
+(links not vetted by me)
 - MLDS-Africa (Machine Learning and Data Science in Africa Network): [mlds-africa@googlegroups.com](mailto:mlds-africa@googlegroups.com)
 - Computational neuroscience mailing list (Organisation of Comp Neuro): [https://lists.cnsorg.org/postorius/lists/comp-neuro.lists.cnsorg.org/](https://lists.cnsorg.org/postorius/lists/comp-neuro.lists.cnsorg.org/)
 - Connectionists (Comp neuro-y / NeuroAI mailing list): [connectionists@cs.cmu.edu](mailto:connectionists@cmu.edu) / [https://mailman.srv.cs.cmu.edu/mailman/listinfo/connectionists](https://mailman.srv.cs.cmu.edu/mailman/listinfo/connectionists)
