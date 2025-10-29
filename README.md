@@ -99,6 +99,8 @@
 
 ### Courses to apply for
 
+- [CaCTüS,Computation & Cognition Tübingen Summer Internship](https://www.projects.tuebingen.mpg.de/)
+
 - Courses offered by [Cajal - Advanced Neuroscience Training Programme](https://cajal-training.org/courses/) - either in France or Portugal 
 
 - [Simons Computational Neuroscience Imbizo](https://imbizo.africa/) - summer school (January) in Cape Town 
